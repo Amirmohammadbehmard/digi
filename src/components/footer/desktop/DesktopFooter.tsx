@@ -1,6 +1,6 @@
 import UpperSectionOfDesktopFooter from "./upperSection/UpperSectionOfDesktopFooter";
 import UpperOfDownSection from "./downSection/upperOfDownSection/UpperOfDownSection";
-import BottemOfDownSection from "./downSection/bottemOfDownSection/bottemOfDownSection";
+import BottemOfDownSection from "./downSection/bottemOfDownSection/BottemOfDownSection";
 
 function DesktopFooter() {
   return (
