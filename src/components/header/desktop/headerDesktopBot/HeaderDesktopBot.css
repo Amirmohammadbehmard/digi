@@ -1,0 +1,36 @@
+.icon {
+  width: 18px;
+  height: 18px;
+  margin-top: 1px;
+}
+.icon-fire {
+  width: 16px;
+  height: 16px;
+  margin-top: 1px;
+}
+.nav-text {
+  color: #525252;
+  font-size: 10.2px;
+}
+@media (min-width: 1035px) {
+  .nav-text {
+    color: #525252;
+    font-size: 10.6px;
+  }
+}
+@media (min-width: 1077px) {
+  .nav-text {
+    color: #525252;
+    font-size: 11.8px;
+  }
+}
+.parag {
+  font-size: 11.3px;
+  margin-bottom: 4px;
+}
+@media (min-width: 1077px) {
+  .parag {
+    font-size: 12px;
+    margin-bottom: 4px;
+  }
+}

@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "IranSans";
+  src: url("../src/assets/fonts/Iranian Sans.ttf");
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "IranSans";
+  direction: rtl;
+}
+
+.container-4xl-w {
+  width: 100%;
+  max-width: 1676px;
+}
+.container-2xl-w {
+  width: 100%;
+  max-width: 1336px;
+}
+
+.swiper-button-disabled {
+  display: none !important;
+}
+.custom-bg {
+  background: linear-gradient(225deg, #d22c4e, #ee384e 41.68%, #ef5662);
+}
