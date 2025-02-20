@@ -15,7 +15,7 @@ function HeaderDesktopMid() {
             />
           </Link>
           <div className="flex items-center h-11 w-[600px] ml-5">
-            <div className="flex items-center bg-[custom-border-color] grow rounded-lg px-4 h-full">
+            <div className="flex items-center bg-custom-input grow rounded-lg px-4 h-full">
               <IoSearch className="w-6 h-6 text-gray-400 cursor-pointer" />
               <span className="grow px-4 text-xs text-neutral-500">جستجو</span>
             </div>

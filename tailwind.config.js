@@ -8,7 +8,7 @@ export default {
         "custom-border-color": "#f0f0f1",
       },
       backgroundColor: {
-        "custom-form": "#f0f0f2",
+        "custom-input": "#f0f0f2",
       },
     },
     screens: {

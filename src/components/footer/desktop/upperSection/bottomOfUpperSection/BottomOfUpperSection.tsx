@@ -129,9 +129,9 @@ function BottomOfUpperSection() {
           </h4>
           <div className="w-full flex items-center">
             <form className="w-full flex">
-              <label className="px-2 w-[260px]  bg-custom-form h-[48px] rounded-lg flex items-center">
+              <label className="px-2 w-[260px] bg-custom-input h-[48px] rounded-lg flex items-center">
                 <input
-                  className="px-2 w-[260px] bg-custom-form text-[13px]"
+                  className="px-2 w-[260px] bg-custom-input text-[13px]"
                   type="email"
                   placeholder="ایمیل شما"
                 />
