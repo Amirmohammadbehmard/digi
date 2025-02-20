@@ -1,6 +1,6 @@
 import BottomOfUpperSection from "./bottomOfUpperSection/BottomOfUpperSection";
 import DigicalaFeatures from "./digicalaFeatures/digicalaFeatures";
-import UpperOfUpperSection from "./upperOfUpperSection/upperOfUpperSection";
+import UpperOfUpperSection from "./upperOfUpperSection/UpperOfUpperSection";
 
 
 
